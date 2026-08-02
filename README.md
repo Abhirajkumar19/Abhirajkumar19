@@ -20,3 +20,4 @@ Instagram
 Portfolio Website
 
 ![](https://komarev.com/ghpvc/?username=Abhirajkumar19)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhirajkumar19&show_icons=true)
