@@ -62,8 +62,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhirajkumar19&layout=compact&theme=tokyonight)
 
----
-
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhirajkumar19&theme=tokyonight)
