@@ -5,66 +5,174 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abhirajkumar19&label=Profile%20Views&color=0e75b6&style=flat" />
+  <a href="https://github.com/Abhirajkumar19">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Python+Developer;Web+Developer;Learning+AI+%26+Data+Science;Always+Learning+New+Things" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abhirajkumar19&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🎓 B.Tech CSE Student
-- 🐍 Learning Python, Flask & AI
-- 🌐 Learning Web Development
-- 🚀 Building Projects Daily
-- 📫 Reach me: abhiraj19032007@example.com
+🎓 **B.Tech Computer Science Engineering Student**
 
----
+💻 Passionate about **Python, Web Development and AI**
 
-## 🛠️ Tech Stack
+🚀 Building Real World Projects
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+🌱 Currently Learning **Flask, Data Science & Machine Learning**
+
+🎯 Goal: Become a Full Stack Python Developer & AI Engineer
 
 ---
 
-## 📂 Featured Projects
+# 🌐 Connect With Me
 
-- Python Zero to Hero
-- Chhath Puja Countdown Website
-- Personal Portfolio
-- Amazon Clone
-- College Room Rent Website
-- G P Vaishali Application
+<p align="center">
 
----
-
-## 📈 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Abhirajkumar19&theme=tokyonight)
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/abhiraj-kumar-abhi" target="_blank">
+<a href="https://www.linkedin.com/in/abhiraj-kumar-abhi">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Abhirajkumar19" target="_blank">
+<a href="mailto:abhiraj19032007@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://personal-portfolio-mu-two-47.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Abhirajkumar19">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://personal-portfolio-mu-two-47.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-<a href="mailto:abhiraj19032007@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 </p>
 
-⭐ Thanks for visiting my profile!
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,javascript,git,github,vscode,flask"/>
+
+</p>
+---
+
+# 📂 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🐍 Python Zero to Hero | Complete Python Notes & Practice |
+| 🌐 Personal Portfolio | Responsive Portfolio Website |
+| 🪔 Chhath Puja Countdown | Live Countdown Website |
+| 🛒 Amazon Clone | HTML & CSS Project |
+| 🏠 College Room Rent | Room Finder Website |
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Abhirajkumar19&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhirajkumar19&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+> ⚠️ **Note:** अगर GitHub Stats की इमेज कभी दिखाई न दे, तो यह अक्सर `github-readme-stats` सर्विस की अस्थायी समस्या होती है, तुम्हारे README की नहीं।
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Abhirajkumar19&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 GitHub Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhirajkumar19&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Abhirajkumar19&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</p>
+
+---
+
+# 💡 Developer Quote
+
+<p align="center">
+
+> **"Code. Learn. Build. Repeat." 🚀**
+
+</p>
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abhirajkumar19/Abhirajkumar19/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
+# 🚀 My Goals (2026)
+
+- ✅ Master Python
+- ✅ Learn Flask & Django
+- ✅ Build AI & Machine Learning Projects
+- ✅ Contribute to Open Source
+- ✅ Upload Projects Regularly
+- ✅ Become a Full Stack Python Developer
+
+---
+
+# 📫 Contact Me
+
+<p align="center">
+
+<a href="mailto:abhiraj19032007@gmail.com">
+<img src="https://img.shields.io/badge/Email-abhiraj19032007%40gmail.com-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/abhiraj-kumar-abhi">
+<img src="https://img.shields.io/badge/LinkedIn-Abhiraj%20Kumar-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://personal-portfolio-mu-two-47.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile! ⭐
+
+### If you like my work, don't forget to ⭐ my repositories.
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
