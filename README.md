@@ -7,7 +7,7 @@
 - 💻 Learning Python, Web Development & AI
 - 🚀 Building projects and sharing them on GitHub
 - 🌱 Currently learning Flask and Data Science
-- 📫 Reach me: your_email@gmail.com
+- 📫 Reach me: abhiraj19032007@gmail.com
 
 ## 🛠 Tech Stack
 
@@ -18,3 +18,5 @@ Python | HTML | CSS | JavaScript | Git | GitHub
 LinkedIn  
 Instagram  
 Portfolio Website
+
+![](https://komarev.com/ghpvc/?username=Abhirajkumar19)
