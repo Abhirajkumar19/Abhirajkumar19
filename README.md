@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech CSE Student at Raman University
+- 🎓 B.Tech CSE Student at DR C. V. Raman University
 - 🐍 Learning Python, Flask & AI
 - 🌐 Web Developer
 - 🚀 Building Projects and uploading on GitHub
@@ -26,8 +26,6 @@
 ## 🛠 Tech Stack
 
 - Python
-- C
-- C++
 - HTML
 - CSS
 - JavaScript
