@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Abhiraj Kumar</h1>
+<h3 align="center">B.Tech CSE Student | Python Developer | Web Developer</h3>
 
-<!--
-**Abhirajkumar19/Abhirajkumar19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
 
-Here are some ideas to get you started:
+  <a href="mailto:yourgmail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://instagram.com/yourusername">
+    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram">
+  </a>
+</p>
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech CSE Student at Raman University
+- 🐍 Learning Python, Flask & AI
+- 🌐 Web Developer
+- 🚀 Building Projects and uploading on GitHub
+- 📚 Currently improving DSA and Python skills
+
+## 🛠 Tech Stack
+
+- Python
+- C
+- C++
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+- VS Code
