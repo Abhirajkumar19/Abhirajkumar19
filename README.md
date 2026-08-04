@@ -78,15 +78,9 @@
 # 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Abhirajkumar19&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhirajkumar19&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Abhirajkumar19&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhirajkumar19&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
-
-> ⚠️ **Note:** अगर GitHub Stats की इमेज कभी दिखाई न दे, तो यह अक्सर `github-readme-stats` सर्विस की अस्थायी समस्या होती है, तुम्हारे README की नहीं।
-
 ---
 
 # 🔥 GitHub Streak
