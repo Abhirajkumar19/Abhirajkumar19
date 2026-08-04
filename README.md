@@ -61,6 +61,7 @@
 <img src="https://skillicons.dev/icons?i=python,html,css,javascript,git,github,vscode"/>
 
 </p>
+
 ---
 
 # 📂 Featured Projects
