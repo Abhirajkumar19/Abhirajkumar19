@@ -24,7 +24,7 @@
 
 🚀 Building Real World Projects
 
-🌱 Currently Learning **Flask, Data Science & Machine Learning**
+🌱 Currently Learning **Python**
 
 🎯 Goal: Become a Full Stack Python Developer & AI Engineer
 
