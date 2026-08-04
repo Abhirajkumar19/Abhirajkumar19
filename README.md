@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhiraj Kumar</h1>
 
 <h3 align="center">
-💻 B.Tech CSE Student | Python Developer | Web Developer | AI Enthusiast
+💻 B.Tech CSE Student | Python Developer | Web Developer 
 </h3>
 
 <p align="center">
