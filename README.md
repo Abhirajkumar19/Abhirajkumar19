@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,javascript,git,github,vscode,flask"/>
+<img src="https://skillicons.dev/icons?i=python,html,css,javascript,git,github,vscode"/>
 
 </p>
 ---
