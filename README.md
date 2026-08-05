@@ -75,6 +75,13 @@
 | 🏠 College Room Rent | Room Finder Website |
 
 ---
+## 📚 Learning Repositories
+
+| Repository | Description |
+|------------|-------------|
+| 🐍 Python Zero to Hero | Complete Python Notes & Practice |
+
+---
 
 
 # 🔥 GitHub Streak
