@@ -69,6 +69,7 @@
 | Project | Description |
 |---------|-------------|
 | 🐍 Python Zero to Hero | Complete Python Notes & Practice |
+| 📱 GP Vaishali Application | Institute Management Android App |
 | 🌐 Personal Portfolio | Responsive Portfolio Website |
 | 🪔 Chhath Puja Countdown | Live Countdown Website |
 | 🛒 Amazon Clone | HTML & CSS Project |
