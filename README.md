@@ -68,12 +68,12 @@
 
 | Project | Description |
 |---------|-------------|
-| 📱 GP Vaishali Application | Institute Management Android App |
-| 🌐 Personal Portfolio | Responsive Portfolio Website |
-| 🪔 Chhath Puja Countdown | Live Countdown Website |
+📱 GP Vaishali Application | Android App for Student, Attendance & Notice Management
+| 🌐 Personal Portfolio | Personal Developer Portfolio with Responsive Design ||
+| 🪔 Chhath Puja Countdown | Interactive Festival Countdown Website with Live Countdown, Music & Animations |
 | 🎀 Raksha Bandhan Countdown | Live Countdown Website with Music, Surprise Gifts, Shopping Links & Responsive Design |
-| 🛒 Amazon Clone | HTML & CSS Project |
-| 🏠 College Room Rent | Room Finder Website |
+| 🛒 Amazon Clone | Responsive E-commerce Frontend Website |
+| 🏠 College Room Rent | Student Room Rental & Finder Website |
 
 ---
 ## 📚 Learning Repositories
