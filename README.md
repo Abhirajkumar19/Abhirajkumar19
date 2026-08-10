@@ -126,13 +126,6 @@
 > **"Code. Learn. Build. Repeat." 🚀**
 
 </p>
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Abhirajkumar19/Abhirajkumar19/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
 
 ---
 
