@@ -87,7 +87,7 @@
 <h2>📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Abhirajkumar19&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Abhirajkumar19&show_icons=true&theme=tokyonight&hide_border=true" height="170"/><br>
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Abhirajkumar19&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
