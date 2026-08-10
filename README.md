@@ -136,6 +136,14 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abhirajkumar19/Abhirajkumar19/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+</p>
+
+---
+
 # 🚀 My Goals (2026)
 
 - ✅ Master Python
